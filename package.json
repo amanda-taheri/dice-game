@@ -1,0 +1,15 @@
+{
+  "name": "js-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "watch": "node-sass style.scss style.css --watch",
+    "compile": "node-sass style.scss style.css"
+  },
+  "author": "amany",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
