@@ -9,7 +9,6 @@ A simple **two-player JavaScript dice game**.
 ---
 
 ## 🖼️ Preview
-> Replace the image path with your own screenshot or GIF.
 
 ![Dice Game Preview](img/Game.png)
 
